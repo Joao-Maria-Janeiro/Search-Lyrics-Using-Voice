@@ -2,6 +2,8 @@
 
 Python program that allows users to search for a song only by saying the artist name and the track name
 
+##### You will not be able to run this project as is. You must insert your own keys in the keys.py
+
 ## Built With
 
 * [PyAudio](https://people.csail.mit.edu/hubert/pyaudio/) - The Sound Recorder
